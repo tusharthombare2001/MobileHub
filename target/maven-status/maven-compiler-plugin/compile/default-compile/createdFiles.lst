@@ -1,0 +1,9 @@
+com\MobileDao\UserDao.class
+com\Utility\HibernateUtil.class
+ClientOperation\ClientOperationMain.class
+com\Mobiles\User.class
+com\MobileServices\AuthService.class
+com\Mobiles\Brand.class
+com\MobileServices\MobileServices.class
+com\MobileDao\MobileDao.class
+com\Mobiles\Mobile.class
